@@ -128,6 +128,4 @@ dmypy.json
 .pyre/
 
 #myown
-log_reg.ipynb
-Submission_1.csv
-sampleSubmission.csv
+model.h5
